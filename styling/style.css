@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,700;1,500&family=Skranji:wght@400;700&family=Tajawal:wght@900&display=swap");
+/*stylegoogle font */
+* {
+  box-sizing: border-box;
+}
+/*  */
+body {
+  background-image: linear-gradient(
+    to bottom,
+    #051937,
+    #003e61,
+    #00646c,
+    #008853,
+    #7ba323
+  );
+  margin: 0;
+  padding: 0 0 0 25px;
+  background-attachment: fixed;
+  /* backround fixed */
+}
+/*backround*/
+.Nav {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: xx-large;
+  /*size*/
+  text-decoration: none;
+  /*tna7i el line*/
+  margin-right: 25px;
+}
+a:hover:hover {
+  color: #a8ed11;
+  /* :hover=color */
+  cursor: pointer;
+  /* :cursuur yetbadel */
+}
+h1:hover {
+  color: #a8ed11;
+  /* :hover=ki tadi laih el cursor yetbadel loun */
+  cursor: pointer;
+  /* :cursuur yetbadel */
+}
+h2:hover {
+  color: #a8ed11;
+  /* :hover=ki tadi laih el cursor yetbadel loun */
+  cursor: pointer;
+  /* :cursuur yetbadel */
+}
+.I-mg {
+  border-radius: 50%;
+  /*style img mdawra*/
+  float: right;
+  /*left / right*/
+}
+#the-first-p {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: x-large;
+  /*size*/
+  width: 50%;
+  right: 50%;
+  font-size: 3.5rem;
+  padding: 0;
+  margin: 0;
+}
+p {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: 1.5rem;
+  /*size*/
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  color: rgb(252, 251, 251);
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: xx-large;
+  /*size*/
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  color: rgb(245, 243, 243);
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: x-large;
+  /*size */
+  padding: 0;
+  margin: 0;
+}
+h3 {
+  color: rgb(10, 10, 10);
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: large;
+  /*size*/
+  padding: 0;
+  margin: 0;
+}
+h4 {
+  color: rgba(3, 2, 2, 0.631);
+  font-family: "Roboto", sans-serif;
+  /*style google font import*/
+  font-size: larger;
+  /*size*/
+  padding: 0;
+  margin: 0;
+}
+.I-mg1 {
+  border-radius: 20%;
+  /*style img mdawra*/
+  float: ;
+  /*left / right*/
+}
+#click {
+  margin: 15rem;
+}
